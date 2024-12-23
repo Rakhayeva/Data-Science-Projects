@@ -22,5 +22,3 @@ Two models predict milk yield and assess taste quality.
 HR analysts assist the business in optimizing workforce management: the business provides data, and analysts offer solutions to prevent financial losses and employee turnover.  
 **Methods:** Build a model to predict employee satisfaction, and another to predict employee turnover.  
 **Key Tasks:** Machine learning to enhance decision-making with a focus on data-driven predictions. | Matplotlib, Numpy, Pandas, Seaborn, Shap, Phik, Scipy, Sklearn |
-
-
